@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Romain</h1>
 <h3 align="center">A passionate Fullstack Developer based in Munich</h3>
 
-- 🔭 I’m currently working on [My Portfolio Website](https://romain-gille.herokuapp.com/)
+- 🔭 I’m currently working on my Portfolio Website [Github](https://github.com/romain-gille/rails-romaingille-website) | [Webpage](https://romain-gille.herokuapp.com/)
+
+
+- 👯 I worked on Creatown [Github](https://github.com/romain-gille/CreaTown) | [Webpage](https://www.creatown.fun/)
+
 
 - 🌱 I’m currently learning **React and Typescript**
 
-- 👯 I worked on [Creatown (share your creations with neighbors)](https://github.com/romain-gille/CreaTown)
 
-- 📫 How to reach me **gille.romain@yahoo.fr**
-
-- 📄 Know about my experiences [https://romain-gille.herokuapp.com/](https://romain-gille.herokuapp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
